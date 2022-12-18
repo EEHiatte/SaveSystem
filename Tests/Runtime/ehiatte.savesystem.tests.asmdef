@@ -1,0 +1,11 @@
+{
+    "name": "ehiatte.savesystem.tests",
+    "references": [
+        "GUID:64648baf8a1ab8d4fa6adcc9632b5f94"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

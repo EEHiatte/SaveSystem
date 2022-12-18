@@ -1,0 +1,24 @@
+{
+  "name": "com.ehiatte.savesystem",
+  "version": "0.1.0",
+  "displayName": "Save System",
+  "description": "A simple save system that can save data to various locations in various formats.",
+  "unity": "2018.4",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://github.com/EEHiatte/SaveSystem/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/EEHiatte/SaveSystem/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "save",
+    "savesystem",
+    "data"
+  ],
+  "author": {
+    "name": "Elijah Hiatte",
+    "email": "elijah.hiatte@gmail.com",
+    "url": "https://elijahhiatte.squarespace.com"
+  },
+  "hideInEditor": false
+}
